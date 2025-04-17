@@ -27,3 +27,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanu-bit&show_icons=true&locale=en&layout=compact" alt="shantanu-bit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantanu-bit&show_icons=true&locale=en" alt="shantanu-bit" /></p>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/shantanu-bit/shantanu-bit/blob/output/github-contribution-grid-snake.svg)
+
