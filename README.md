@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shantanumamgain12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xGbdoUxsE9CFIc6oT_KEHB4fmrDxLpgy/view?usp=drive_link](https://drive.google.com/file/d/1xGbdoUxsE9CFIc6oT_KEHB4fmrDxLpgy/view?usp=drive_link)
+- 📄 My Resume [https://drive.google.com/file/d/1xGbdoUxsE9CFIc6oT_KEHB4fmrDxLpgy/view?usp=drive_link](https://drive.google.com/file/d/1xGbdoUxsE9CFIc6oT_KEHB4fmrDxLpgy/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
