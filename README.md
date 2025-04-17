@@ -31,5 +31,5 @@
 ### 🐍 Contribution Snake:
 
 <p align="center">
-  <img src="https://github.com/shantanu-bit/shantanu-bit/blob/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/shantanu-bit/shantanu-bit/blob/main/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
